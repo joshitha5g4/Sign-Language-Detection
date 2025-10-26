@@ -75,16 +75,6 @@ python datacollection.py
 python test.py
 ```
 
-## 🎬 Project Screenshots
-
-### Gesture Detection in Action
-
-![Screenshot 1](assets/screenshot1.png)
-![Screenshot 2](assets/screenshot2.png)
-![Screenshot 3](assets/screenshot3.png)
-![Screenshot 4](assets/screenshot4.png)
-![Screenshot 5](assets/screenshot5.png)
-
 ## 🌟 Features
 ✔ Real-time gesture detection using webcam  
 ✔ No gloves or sensors required  
