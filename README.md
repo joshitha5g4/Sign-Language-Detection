@@ -29,7 +29,6 @@ Sign-Language-Detection/
 ├── test.py                   # Real-time sign language prediction
 ├── model.h5                  # Trained deep learning model
 ├── /dataset/                 # Stored gesture images (class-wise)
-├── /images/ or /samples/     # Saved screenshots / test hand gestures
 └── README.md                 # Project documentation
 ```
 
